@@ -1,7 +1,7 @@
 # python3
 # Author: Aleksandrs Pučenkins 17.gr. 221RDB335
 
-class Contact:
+class Contact: # New class to organise code better and faster
     def __init__(self, number, name):
         self.number = number
         self.name = name
