@@ -1,4 +1,5 @@
 # python3
+# Author: Aleksandrs Pučenkins 17.gr. 221RDB335
 
 class Query:
     def __init__(self, query):
